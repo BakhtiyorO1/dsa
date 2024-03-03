@@ -68,9 +68,6 @@ footer p {
     align-items: center;
     margin: 0;
 }
-.footer-text {
-    font-size: 16px;
-}
 footer a {
     height: 100%;
     display: flex;
@@ -144,5 +141,8 @@ footer a {
     }
     header h1 {
         font-size: 20px;
+    }
+    .footer-text {
+        font-size: 16px;
     }
 }
